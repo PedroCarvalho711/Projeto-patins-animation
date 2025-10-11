@@ -86,7 +86,7 @@ footer {
         height: inherit;
         border-radius: inherit;
 
-        background: var(snitap-sun);
+        background: var(--snitap-sun);
 
         position: absolute;
         top: 0;
